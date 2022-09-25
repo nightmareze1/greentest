@@ -54,7 +54,7 @@
     "eslint-plugin-import": "^2.6.0",
     "eslint-plugin-prettier": "^3.0.1",
     "flow-bin": "^0.111.1",
-    "greenkeeper-lockfile": "^1.8.1",
+    "greenkeeper-lockfile": "1.15.1",
     "husky": "^3.0.9",
     "jest": "^24.7.1",
     "lint-staged": "^9.4.2",
