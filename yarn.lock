@@ -140,9 +140,7 @@
     minimist "^1.2.0"
 
 "@commitlint/cli@^8.2.0":
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-8.2.0.tgz#fbf9969e04e2162d985eaa644fdad6ce807aadb6"
-  integrity sha512-8fJ5pmytc38yw2QWbTTJmXLfSiWPwMkHH4govo9zJ/+ERPBF2jvlxD/dQvk24ezcizjKc6LFka2edYC4OQ+Dgw==
+  version "8.3.6"
   dependencies:
     "@commitlint/format" "^8.2.0"
     "@commitlint/lint" "^8.2.0"
@@ -162,9 +160,7 @@
   integrity sha512-XjIwB7/sw3MRL3Y8jqmf1FQrwoH/RU6l/UXuSjDYRjFLUqosVPcb7bGjLd22Mpbc0szIpEBys3VPthNY8akTUw==
 
 "@commitlint/config-angular@^8.2.0":
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/@commitlint/config-angular/-/config-angular-8.2.0.tgz#826cf9d665f5742571988eb388b1c1a1a542c96b"
-  integrity sha512-N1MDHoYwTlWtQwXbDFAvu3pMS0encb0QR29LfEqvR1+2DV2SrdAfCEIX9Wi3DgEo2Ra5uKDDHhYbMuQWV5Jvyg==
+  version "8.3.6"
   dependencies:
     "@commitlint/config-angular-type-enum" "^8.2.0"
 
